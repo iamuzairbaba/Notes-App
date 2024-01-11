@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": "89c5",
+      "title": "Work on MaterialUI",
+      "details": "Learn Material ui and its Uses in Practice",
+      "category": "work"
+    },
+    {
+      "id": "75b6",
+      "title": "Learn Formik.setfieldvalue",
+      "details": "Also learn onchange onblur events of input field",
+      "category": "work"
+    },
+    {
+      "id": "9d06",
+      "title": "use tuggle",
+      "details": "select and autocomplete",
+      "category": "todos"
+    },
+    {
+      "id": "f023",
+      "title": "eg username shahid",
+      "details": "email should be shahid@gmail.com",
+      "category": "todos"
+    },
+    {
+      "id": "dee1",
+      "title": "start adocrtion icon",
+      "details": "to put icons in input field etc",
+      "category": "work"
+    }
+  ]
+}
